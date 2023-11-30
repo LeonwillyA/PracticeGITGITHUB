@@ -1,6 +1,6 @@
 public class AguaEnSolidos {
     public static void main(String[] args) {
-        double x = 0.049;
+        double x = 1.049;
 
 
           if (x>0 && x<0.032) {
