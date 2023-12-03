@@ -36,7 +36,7 @@ public class SensorTemperatura {
                     System.out.println("El caldero no esta siendo rentable, los costo de mantenimiento son muy altos");
                     break;
                 default:
-                    System.out.println("Selecciona una opción correcta, no seas inútil");
+                    System.out.println("Selecciona una opción correcta, por favor");
             }
         } while (response != 1);
 
