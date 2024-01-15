@@ -62,6 +62,6 @@ public class ProyectoIndependencia {
 
         System.out.println( equipos [3] [2]);
         System.out.println(equipos [7] [0]);
-        
+
     }
 }
